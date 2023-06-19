@@ -33,6 +33,5 @@ requestButton.addEventListener('click', function(event) {
     }
 
     emailInput.value = '';
-  
-    // Proceed with further actions, such as form submission or additional processing
+
   });
